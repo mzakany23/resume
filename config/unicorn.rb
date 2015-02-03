@@ -1,7 +1,7 @@
-working_directory "/resume"
-pid "/resume/tmp/pids/unicorn.pid"
-stderr_path "/resume/log/unicorn.log"
-stdout_path "/resume/log/unicorn.log"
+working_directory "/rails/resume"
+pid "/rails/resume/tmp/pids/unicorn.pid"
+stderr_path "/rails/resume/log/unicorn.log"
+stdout_path "/rails/resume/log/unicorn.log"
 
 # listen "/tmp/sockets/unicorn.cage.sock"
 listen 8080
