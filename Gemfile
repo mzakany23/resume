@@ -32,6 +32,10 @@ group :doc do
   gem 'sdoc', require: false
 end
 
+gem 'unicorn'
+
+gem 'nginx'
+
 gem 'devise'
 
 # Use ActiveModel has_secure_password
